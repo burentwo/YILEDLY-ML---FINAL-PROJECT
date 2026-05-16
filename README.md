@@ -79,13 +79,13 @@ yieldly/
 └── requirements.txt              # Python dependencies (see Quick Setup)
 ```
 
-> `app.py` reads `yieldlylogo111.png` from the **working directory** at startup using a hardcoded `open()` call. Both files must be in the same folder when you run `streamlit run app.py`.
+> `All files must be in the same folder when you run `streamlit run app.py`.
 
 ---
 
-## Suggested Team Handoff Package
+## Files Needed
 
-When passing this project to another team member or deploying to a new environment, include the following files:
+When running this project in a local environment, include the following files:
 
 - `app.py` — complete application source
 - `yieldlylogo111.png` — logo asset required at runtime
