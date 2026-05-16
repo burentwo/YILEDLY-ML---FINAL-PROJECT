@@ -3,7 +3,7 @@
 </p>
 
 
-A mobile-first crop disease detection tool built for Filipino eggplant farmers. Yieldly uses a fine-tuned EfficientNet-B2 model to classify eggplant images into five disease categories and delivers results in plain language — in either English or Filipino — within seconds of upload.
+A mobile-first crop disease detection tool built for Filipino eggplant farmers. Yieldly uses a fine-tuned EfficientNet-B2 model to classify eggplant images into five disease categories and delivers results in plain language — either English or Filipino, within seconds of upload of your selected Eggplant photo.
 
 **It helps users:**
 - Upload or camera-capture photos of eggplant leaves, fruits, or shoots for instant disease diagnosis
